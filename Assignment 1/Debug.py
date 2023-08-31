@@ -2,8 +2,8 @@
 #Assignment 1: Debug.py
 #Fix any syntax errors you can spot and fulfill any other requests
 def main():
-    print(hello)
-    print(3)
+    print(ello)
+    print(30)
     print(10 + 10)
 
 
